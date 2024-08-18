@@ -1,6 +1,6 @@
 # Site
 name: 'AI Supremacy SG'
-description: 'AI Supremacy SG is a Singapore based AI startup community. We are a community of AI startups, AI enthusiasts, AI investors, AI researchers, AI developers, AI entrepreneurs, AI enthusiasts, AI professionals'
+description: 'AI Supremacy SG is a Singapore based AI startup community.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/ai-startups-singapore'
