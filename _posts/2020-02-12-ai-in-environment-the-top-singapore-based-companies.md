@@ -3,7 +3,7 @@ layout: post
 title:  "AI in Environment: The Top Singapore-Based Companies"
 author: jane
 categories: [ Automation, AI in Business, Singapore ]
-tags: [ AI Startups, Future of AI, AI Companies, AI Use Cases ]
+tags: [ AI Startups, Future of AI, AI Companies, AI Use Cases, featured ]
 image: assets/images/8.jpg
 ---
 

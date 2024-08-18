@@ -3,7 +3,7 @@ layout: post
 title:  "AI-Driven Retail: Key Singaporean Companies Enhancing Efficiency"
 author: jane
 categories: [ Automation, Innovation ]
-tags: [ AI in Singapore, Smart Cities, AI Transformation ]
+tags: [ AI in Singapore, Smart Cities, AI Transformation, featured ]
 image: assets/images/10.jpg
 ---
 
