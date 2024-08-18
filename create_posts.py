@@ -18,13 +18,13 @@ base_titles = [
     "Top AI Companies Transforming the {} in Singapore",
     "How AI Companies in Singapore Are Revolutionizing {}",
     "AI in {}: Leading AI Companies in Singapore",
-    "The Impact of AI on {}: Singapore's Top AI Companies",
+    "The Impact of AI on {}: Singapore Top AI Companies",
     "AI-Driven {}: Key Singaporean Companies Enhancing Efficiency",
     "AI Solutions for {}: Key Innovators in Singapore",
-    "Singapore's Leading AI Companies Shaping {}",
+    "Singapore Leading AI Companies Shaping {}",
     "AI in {}: The Top Singapore-Based Companies",
     "AI Powerhouses in {}: Singapore Companies Leading the Charge",
-    "Exploring AI Innovations in Singapore's {} Sector"
+    "Exploring AI Innovations in Singapore {} Sector"
 ]
 
 # SEO-optimized categories and tags
