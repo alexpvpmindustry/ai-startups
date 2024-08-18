@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI Powerhouses in Retail: Singapore Companies Leading the Charge"
-author: "AI Insights"
+author: jane
 categories: [ Industry Trends, AI, Startups ]
 tags: [ AI in Technology, Machine Learning Innovations, Future of AI, AI Companies ]
 image: assets/images/4.jpg

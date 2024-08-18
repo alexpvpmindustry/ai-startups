@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Impact of AI on Sports: Singapore’s Top AI Companies"
-author: "AI Insights"
+title:  "The Impact of AI on Sports: Singaporeï¿½s Top AI Companies"
+author: jane
 categories: [ Machine Learning, Technology ]
 tags: [ Data Analytics, AI Use Cases, AI Solutions for Businesses, AI Applications ]
 image: assets/images/9.jpg

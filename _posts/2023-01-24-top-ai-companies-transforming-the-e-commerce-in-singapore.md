@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Top AI Companies Transforming the E-commerce in Singapore"
-author: "AI Insights"
+author: jane
 categories: [ AI, Industry Trends, Automation ]
 tags: [ Machine Learning Innovations, AI Applications, AI in Technology ]
 image: assets/images/6.jpg

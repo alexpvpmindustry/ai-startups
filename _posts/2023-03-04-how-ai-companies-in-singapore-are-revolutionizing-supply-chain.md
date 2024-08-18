@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How AI Companies in Singapore Are Revolutionizing Supply Chain"
-author: "AI Insights"
+author: jane
 categories: [ Deep Learning, AI, Technology ]
 tags: [ AI Trends, AI in Asia, AI Use Cases, Industry Disruption ]
 image: assets/images/8.jpg

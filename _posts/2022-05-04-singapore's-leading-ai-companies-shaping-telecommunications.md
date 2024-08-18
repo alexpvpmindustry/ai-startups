@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Singapore's Leading AI Companies Shaping Telecommunications"
-author: "AI Insights"
+author: jane
 categories: [ AI Startups, Artificial Intelligence ]
 tags: [ AI Startups, AI Transformation, AI Revolution ]
 image: assets/images/7.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI-Driven Real Estate: Key Singaporean Companies Enhancing Efficiency"
-author: "AI Insights"
+author: jane
 categories: [ Data Science, Industry Trends, AI Solutions ]
 tags: [ AI Startups, Future of AI, AI Companies ]
 image: assets/images/3.jpg

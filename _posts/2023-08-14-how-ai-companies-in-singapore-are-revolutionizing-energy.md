@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How AI Companies in Singapore Are Revolutionizing Energy"
-author: "AI Insights"
+author: jane
 categories: [ Data Science, Deep Learning ]
 tags: [ AI Growth, AI Startups, Data Analytics, AI Use Cases, Future of AI ]
 image: assets/images/1.jpg

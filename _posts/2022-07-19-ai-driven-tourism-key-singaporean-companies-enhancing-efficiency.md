@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI-Driven Tourism: Key Singaporean Companies Enhancing Efficiency"
-author: "AI Insights"
+author: jane
 categories: [ Automation, Future Technology, Deep Learning ]
 tags: [ Smart Cities, Data Analytics, AI for Business ]
 image: assets/images/1.jpg

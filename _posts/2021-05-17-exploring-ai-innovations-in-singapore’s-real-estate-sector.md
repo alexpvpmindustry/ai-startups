@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Exploring AI Innovations in Singapore’s Real Estate Sector"
-author: "AI Insights"
+title:  "Exploring AI Innovations in Singaporeï¿½s Real Estate Sector"
+author: jane
 categories: [ Innovation, AI in Business ]
 tags: [ AI Revolution, AI Solutions for Businesses, AI for Business, AI in Technology ]
 image: assets/images/7.jpg

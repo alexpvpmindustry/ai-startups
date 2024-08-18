@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Transportation: Leading AI Companies in Singapore"
-author: "AI Insights"
+author: jane
 categories: [ Artificial Intelligence, Industry Trends, AI in Business ]
 tags: [ AI Solutions for Businesses, Industry Disruption, Smart Cities, Singapore AI Companies ]
 image: assets/images/5.jpg

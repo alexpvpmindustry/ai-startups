@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Fashion: The Top Singapore-Based Companies"
-author: "AI Insights"
+author: jane
 categories: [ AI Solutions, Innovation, Deep Learning ]
 tags: [ AI for Business, AI Trends, AI Companies, AI Revolution ]
 image: assets/images/5.jpg

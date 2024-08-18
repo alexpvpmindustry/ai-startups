@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Impact of AI on Scientific Research: Singapore’s Top AI Companies"
-author: "AI Insights"
+title:  "The Impact of AI on Scientific Research: Singaporeï¿½s Top AI Companies"
+author: jane
 categories: [ Technology, AI Startups ]
 tags: [ Smart Cities, AI for Business, AI Startups, AI in Asia ]
 image: assets/images/9.jpg

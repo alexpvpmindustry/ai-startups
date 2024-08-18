@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "AI Powerhouses in Financial Services: Singapore Companies Leading the Charge"
-author: "AI Insights"
+author: jane
 categories: [ AI, Automation ]
 tags: [ AI Solutions for Businesses, Smart Cities, AI Companies, AI Transformation ]
 image: assets/images/8.jpg
 ---
 
-The Financial Services sector in Singapore is experiencing a rapid evolution, thanks to the rise of AI companies. In this article, we explore the top AI-driven organizations making waves in the industry, pushing the boundaries of what’s possible.
+The Financial Services sector in Singapore is experiencing a rapid evolution, thanks to the rise of AI companies. In this article, we explore the top AI-driven organizations making waves in the industry, pushing the boundaries of whatï¿½s possible.
 
 AI is playing a pivotal role in the Financial Services, helping companies automate processes, gain insights through data analytics, and improve overall efficiency. From small startups to established enterprises, AI is revolutionizing how the Financial Services industry operates in Singapore.
 

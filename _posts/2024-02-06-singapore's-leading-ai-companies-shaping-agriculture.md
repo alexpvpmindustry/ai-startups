@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Singapore's Leading AI Companies Shaping Agriculture"
-author: "AI Insights"
+author: jane
 categories: [ AI in Business, Industry Trends ]
 tags: [ AI Applications, AI Trends, AI in Singapore, Industry Disruption ]
 image: assets/images/4.jpg

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Top AI Companies Transforming the Energy in Singapore"
-author: "AI Insights"
+author: jane
 categories: [ Singapore, AI Startups ]
 tags: [ AI Startups, AI Growth, AI Revolution, AI Transformation, Smart Cities ]
 image: assets/images/5.jpg
 ---
 
-The Energy sector in Singapore is experiencing a rapid evolution, thanks to the rise of AI companies. In this article, we explore the top AI-driven organizations making waves in the industry, pushing the boundaries of what’s possible.
+The Energy sector in Singapore is experiencing a rapid evolution, thanks to the rise of AI companies. In this article, we explore the top AI-driven organizations making waves in the industry, pushing the boundaries of whatï¿½s possible.
 
 With AI-driven solutions, the Energy sector in Singapore is experiencing unprecedented growth. These companies are using machine learning, automation, and predictive analytics to solve complex challenges, making the industry more competitive and forward-looking.
 

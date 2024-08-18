@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Top AI Companies Transforming the Transportation in Singapore"
-author: "AI Insights"
+author: jane
 categories: [ Singapore, AI Solutions ]
 tags: [ Smart Cities, AI Growth, AI Transformation ]
 image: assets/images/9.jpg
 ---
 
-The Transportation sector in Singapore is experiencing a rapid evolution, thanks to the rise of AI companies. In this article, we explore the top AI-driven organizations making waves in the industry, pushing the boundaries of what’s possible.
+The Transportation sector in Singapore is experiencing a rapid evolution, thanks to the rise of AI companies. In this article, we explore the top AI-driven organizations making waves in the industry, pushing the boundaries of whatï¿½s possible.
 
 AI is playing a pivotal role in the Transportation, helping companies automate processes, gain insights through data analytics, and improve overall efficiency. From small startups to established enterprises, AI is revolutionizing how the Transportation industry operates in Singapore.
 

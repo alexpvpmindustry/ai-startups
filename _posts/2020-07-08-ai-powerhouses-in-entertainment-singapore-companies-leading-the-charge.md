@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI Powerhouses in Entertainment: Singapore Companies Leading the Charge"
-author: "AI Insights"
+author: jane
 categories: [ Startups, Future Technology, AI Solutions ]
 tags: [ AI Trends, AI Growth, Smart Cities ]
 image: assets/images/9.jpg

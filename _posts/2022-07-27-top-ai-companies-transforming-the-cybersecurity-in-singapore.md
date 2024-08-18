@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Top AI Companies Transforming the Cybersecurity in Singapore"
-author: "AI Insights"
+author: jane
 categories: [ Future Technology, AI Startups, Industry Trends ]
 tags: [ AI Solutions for Businesses, Data Analytics, AI in Technology, Machine Learning Innovations ]
 image: assets/images/1.jpg

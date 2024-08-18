@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Gaming: The Top Singapore-Based Companies"
-author: "AI Insights"
+author: jane
 categories: [ Startups, Singapore ]
 tags: [ Machine Learning Innovations, AI Startups, AI Transformation ]
 image: assets/images/6.jpg

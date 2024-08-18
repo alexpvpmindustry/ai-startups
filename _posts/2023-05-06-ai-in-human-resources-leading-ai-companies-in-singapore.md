@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Human Resources: Leading AI Companies in Singapore"
-author: "AI Insights"
+author: jane
 categories: [ Innovation, Deep Learning ]
 tags: [ Industry Disruption, Singapore AI Companies, AI Use Cases, AI Growth, AI Solutions for Businesses ]
 image: assets/images/10.jpg

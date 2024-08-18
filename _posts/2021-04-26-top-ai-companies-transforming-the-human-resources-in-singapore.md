@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Top AI Companies Transforming the Human Resources in Singapore"
-author: "AI Insights"
+author: jane
 categories: [ Machine Learning, AI in Business ]
 tags: [ AI Companies, AI Applications, AI Growth ]
 image: assets/images/4.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Logistics: The Top Singapore-Based Companies"
-author: "AI Insights"
+author: jane
 categories: [ Technology, Data Science ]
 tags: [ AI Use Cases, AI Applications, AI Companies, AI for Business ]
 image: assets/images/8.jpg

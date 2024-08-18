@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Healthcare: Leading AI Companies in Singapore"
-author: "AI Insights"
+author: jane
 categories: [ Startups, Industry Trends, Machine Learning ]
 tags: [ AI Transformation, AI Growth, AI in Singapore, Machine Learning Innovations, Singapore AI Companies ]
 image: assets/images/1.jpg

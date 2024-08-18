@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Supply Chain: The Top Singapore-Based Companies"
-author: "AI Insights"
+author: jane
 categories: [ Artificial Intelligence, Automation, Technology ]
 tags: [ AI Companies, Singapore AI Companies, AI in Technology ]
 image: assets/images/10.jpg

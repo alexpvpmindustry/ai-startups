@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Singapore's Leading AI Companies Shaping Real Estate"
-author: "AI Insights"
+author: jane
 categories: [ AI Solutions, Innovation, Data Science ]
 tags: [ AI Transformation, AI Use Cases, Singapore AI Companies ]
 image: assets/images/10.jpg

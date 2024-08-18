@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Impact of AI on Marketing: Singapore’s Top AI Companies"
-author: "AI Insights"
+title:  "The Impact of AI on Marketing: Singaporeï¿½s Top AI Companies"
+author: jane
 categories: [ Automation, Future Technology ]
 tags: [ AI Trends, AI Companies, AI Transformation, Future of AI, AI in Technology ]
 image: assets/images/2.jpg

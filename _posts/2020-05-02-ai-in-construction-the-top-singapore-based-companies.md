@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Construction: The Top Singapore-Based Companies"
-author: "AI Insights"
+author: jane
 categories: [ AI Solutions, Deep Learning ]
 tags: [ AI in Singapore, AI Revolution, AI Growth ]
 image: assets/images/10.jpg

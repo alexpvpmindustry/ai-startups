@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Supply Chain: Leading AI Companies in Singapore"
-author: "AI Insights"
+author: jane
 categories: [ Future Technology, Artificial Intelligence ]
 tags: [ Industry Disruption, AI for Business, AI Use Cases ]
 image: assets/images/7.jpg

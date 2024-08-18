@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Singapore's Leading AI Companies Shaping Fashion"
-author: "AI Insights"
+author: jane
 categories: [ AI in Business, Deep Learning, Technology ]
 tags: [ AI in Singapore, Machine Learning Innovations, AI Revolution ]
 image: assets/images/8.jpg
 ---
 
-The Fashion sector in Singapore is experiencing a rapid evolution, thanks to the rise of AI companies. In this article, we explore the top AI-driven organizations making waves in the industry, pushing the boundaries of what’s possible.
+The Fashion sector in Singapore is experiencing a rapid evolution, thanks to the rise of AI companies. In this article, we explore the top AI-driven organizations making waves in the industry, pushing the boundaries of whatï¿½s possible.
 
 AI's influence on Fashion continues to grow as companies develop solutions that enhance productivity, reduce costs, and create entirely new business models. In Singapore, AI-driven companies are not just improving traditional methods but transforming the very fabric of the industry.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Entertainment: Leading AI Companies in Singapore"
-author: "AI Insights"
+author: jane
 categories: [ AI in Business, Machine Learning, Innovation ]
 tags: [ Singapore AI Companies, AI Companies, AI Applications, AI Revolution ]
 image: assets/images/2.jpg

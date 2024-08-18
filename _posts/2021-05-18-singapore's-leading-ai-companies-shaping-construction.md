@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Singapore's Leading AI Companies Shaping Construction"
-author: "AI Insights"
+author: jane
 categories: [ Future Technology, AI, Automation ]
 tags: [ AI Startups, AI in Asia, AI Applications ]
 image: assets/images/9.jpg

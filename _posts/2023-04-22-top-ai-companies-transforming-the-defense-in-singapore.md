@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Top AI Companies Transforming the Defense in Singapore"
-author: "AI Insights"
+author: jane
 categories: [ Singapore, Future Technology, Technology ]
 tags: [ Smart Cities, AI Companies, Singapore AI Companies, Data Analytics, AI Transformation ]
 image: assets/images/8.jpg

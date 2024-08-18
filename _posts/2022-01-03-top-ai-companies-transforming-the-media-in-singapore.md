@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Top AI Companies Transforming the Media in Singapore"
-author: "AI Insights"
+author: jane
 categories: [ Singapore, Deep Learning ]
 tags: [ Singapore AI Companies, AI Use Cases, Future of AI, AI Trends, AI in Singapore ]
 image: assets/images/8.jpg

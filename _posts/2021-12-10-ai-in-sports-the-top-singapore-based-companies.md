@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Sports: The Top Singapore-Based Companies"
-author: "AI Insights"
+author: jane
 categories: [ AI in Business, Artificial Intelligence ]
 tags: [ Smart Cities, AI in Singapore, AI in Technology ]
 image: assets/images/3.jpg

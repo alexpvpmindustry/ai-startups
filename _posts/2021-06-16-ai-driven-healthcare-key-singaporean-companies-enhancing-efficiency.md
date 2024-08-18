@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI-Driven Healthcare: Key Singaporean Companies Enhancing Efficiency"
-author: "AI Insights"
+author: jane
 categories: [ AI Solutions, AI, Automation ]
 tags: [ AI for Business, Data Analytics, AI in Asia, AI Companies ]
 image: assets/images/2.jpg

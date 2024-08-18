@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How AI Companies in Singapore Are Revolutionizing Government"
-author: "AI Insights"
+author: jane
 categories: [ AI Startups, Automation, AI ]
 tags: [ AI Startups, AI Growth, AI Companies, Data Analytics ]
 image: assets/images/5.jpg

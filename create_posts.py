@@ -103,7 +103,7 @@ def generate_post(title, niche):
     content = f"""---
 layout: post
 title:  "{title}"
-author: "AI Insights"
+author: jane
 categories: [ {', '.join(categories)} ]
 tags: [ {', '.join(tags)} ]
 image: assets/images/{random.randint(1, 10)}.jpg

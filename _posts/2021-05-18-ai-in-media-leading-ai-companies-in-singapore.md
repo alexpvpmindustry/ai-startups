@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Media: Leading AI Companies in Singapore"
-author: "AI Insights"
+author: jane
 categories: [ Machine Learning, Industry Trends, Data Science ]
 tags: [ Data Analytics, AI for Business, AI in Asia, AI Growth ]
 image: assets/images/3.jpg

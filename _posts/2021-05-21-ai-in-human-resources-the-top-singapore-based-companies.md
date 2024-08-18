@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Human Resources: The Top Singapore-Based Companies"
-author: "AI Insights"
+author: jane
 categories: [ AI, Future Technology, Innovation ]
 tags: [ AI Applications, Smart Cities, AI Startups, AI in Asia ]
 image: assets/images/7.jpg

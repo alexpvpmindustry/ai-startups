@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Plumbing: The Top Singapore-Based Companies"
-author: "AI Insights"
+author: jane
 categories: [ Singapore, AI Solutions, Artificial Intelligence ]
 tags: [ AI Applications, AI in Singapore, Machine Learning Innovations, Future of AI, AI Revolution ]
 image: assets/images/6.jpg

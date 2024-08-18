@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Food and Beverage: The Top Singapore-Based Companies"
-author: "AI Insights"
+author: jane
 categories: [ Startups, Deep Learning, Singapore ]
 tags: [ AI Solutions for Businesses, AI Startups, AI Companies, AI in Singapore ]
 image: assets/images/10.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Tourism: Leading AI Companies in Singapore"
-author: "AI Insights"
+author: jane
 categories: [ Innovation, AI, Startups ]
 tags: [ Smart Cities, AI Trends, AI Revolution, AI Startups ]
 image: assets/images/8.jpg

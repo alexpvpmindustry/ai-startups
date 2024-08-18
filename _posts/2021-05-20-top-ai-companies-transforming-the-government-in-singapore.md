@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Top AI Companies Transforming the Government in Singapore"
-author: "AI Insights"
+author: jane
 categories: [ Singapore, Startups, AI Solutions ]
 tags: [ Machine Learning Innovations, Smart Cities, AI Growth, Industry Disruption, AI for Business ]
 image: assets/images/10.jpg

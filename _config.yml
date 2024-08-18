@@ -1,11 +1,11 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'AI Supremacy SG'
+description: 'AI Supremacy SG is a Singapore based AI startup community. We are a community of AI startups, AI enthusiasts, AI investors, AI researchers, AI developers, AI entrepreneurs, AI enthusiasts, AI professionals'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/mundana-theme-jekyll'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'info@supremacy.sg'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -20,19 +20,19 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+      name:           Alex
+      site:           https://supremacy.sg
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
+      bio:            "Hi, I am Alex, the author of ai.supremacy.sg Featuring Singapore top notch AI startups."
+      email:          info@sup.sg
       twitter:        https://twitter.com/wowthemesnet
 
     jane:
       name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
+      site:           https://ai.supremacy.sg
+      avatar:         /assets/images/jane.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
+      email:          info@supremacy.sg
       twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
@@ -43,8 +43,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: Jane
+      avatar: /assets/images/jane.jpg
       
   # all pages
   - scope:

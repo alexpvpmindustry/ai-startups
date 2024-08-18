@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI Powerhouses in Construction: Singapore Companies Leading the Charge"
-author: "AI Insights"
+author: jane
 categories: [ AI Solutions, Artificial Intelligence ]
 tags: [ AI in Technology, Machine Learning Innovations, AI Startups ]
 image: assets/images/7.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Top AI Companies Transforming the Insurance in Singapore"
-author: "AI Insights"
+author: jane
 categories: [ Singapore, Data Science, Artificial Intelligence ]
 tags: [ AI Use Cases, Smart Cities, AI Solutions for Businesses, AI Companies, Data Analytics ]
 image: assets/images/5.jpg

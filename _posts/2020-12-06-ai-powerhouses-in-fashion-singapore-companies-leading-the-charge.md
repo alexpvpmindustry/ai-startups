@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI Powerhouses in Fashion: Singapore Companies Leading the Charge"
-author: "AI Insights"
+author: jane
 categories: [ Data Science, Innovation ]
 tags: [ AI in Singapore, AI in Asia, AI Applications, Data Analytics ]
 image: assets/images/1.jpg

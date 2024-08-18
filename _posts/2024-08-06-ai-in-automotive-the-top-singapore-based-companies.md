@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Automotive: The Top Singapore-Based Companies"
-author: "AI Insights"
+author: jane
 categories: [ Innovation, Startups ]
 tags: [ AI in Technology, Machine Learning Innovations, AI Transformation ]
 image: assets/images/3.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Fashion: Leading AI Companies in Singapore"
-author: "AI Insights"
+author: jane
 categories: [ Future Technology, Startups, Data Science ]
 tags: [ AI in Technology, AI Companies, AI in Asia, AI in Singapore, Data Analytics ]
 image: assets/images/3.jpg

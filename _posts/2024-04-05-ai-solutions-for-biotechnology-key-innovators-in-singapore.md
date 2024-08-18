@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI Solutions for Biotechnology: Key Innovators in Singapore"
-author: "AI Insights"
+author: jane
 categories: [ Innovation, Industry Trends ]
 tags: [ AI Use Cases, AI Transformation, Smart Cities, Data Analytics ]
 image: assets/images/6.jpg

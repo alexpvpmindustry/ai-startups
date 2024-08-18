@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Singapore's Leading AI Companies Shaping Insurance"
-author: "AI Insights"
+author: jane
 categories: [ Technology, Automation ]
 tags: [ AI for Business, AI in Singapore, AI Solutions for Businesses, AI Trends ]
 image: assets/images/8.jpg

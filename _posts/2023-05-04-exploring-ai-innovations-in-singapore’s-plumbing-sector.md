@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Exploring AI Innovations in Singapore’s Plumbing Sector"
-author: "AI Insights"
+title:  "Exploring AI Innovations in Singaporeï¿½s Plumbing Sector"
+author: jane
 categories: [ Technology, Future Technology ]
 tags: [ AI Growth, AI Companies, AI Applications, Industry Disruption, AI in Asia ]
 image: assets/images/4.jpg

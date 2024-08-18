@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Singapore's Leading AI Companies Shaping Marketing"
-author: "AI Insights"
+author: jane
 categories: [ Startups, Future Technology ]
 tags: [ AI Growth, AI Use Cases, AI in Singapore, Industry Disruption ]
 image: assets/images/10.jpg

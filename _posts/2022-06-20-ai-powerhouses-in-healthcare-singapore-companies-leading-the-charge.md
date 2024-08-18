@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI Powerhouses in Healthcare: Singapore Companies Leading the Charge"
-author: "AI Insights"
+author: jane
 categories: [ Future Technology, AI ]
 tags: [ AI in Asia, AI Solutions for Businesses, AI in Technology, Data Analytics ]
 image: assets/images/8.jpg

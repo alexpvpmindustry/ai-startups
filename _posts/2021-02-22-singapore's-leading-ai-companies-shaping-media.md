@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Singapore's Leading AI Companies Shaping Media"
-author: "AI Insights"
+author: jane
 categories: [ AI Solutions, AI Startups ]
 tags: [ AI Companies, AI for Business, AI Transformation ]
 image: assets/images/2.jpg

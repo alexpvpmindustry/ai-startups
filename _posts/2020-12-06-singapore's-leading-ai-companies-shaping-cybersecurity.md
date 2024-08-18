@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Singapore's Leading AI Companies Shaping Cybersecurity"
-author: "AI Insights"
+author: jane
 categories: [ Technology, AI ]
 tags: [ AI Use Cases, AI Growth, AI Solutions for Businesses, AI Revolution, Smart Cities ]
 image: assets/images/3.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI-Driven Energy: Key Singaporean Companies Enhancing Efficiency"
-author: "AI Insights"
+author: jane
 categories: [ Industry Trends, Future Technology, Automation ]
 tags: [ AI in Asia, Singapore AI Companies, Data Analytics ]
 image: assets/images/1.jpg
