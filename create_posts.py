@@ -98,7 +98,7 @@ def generate_post(title, niche):
     # Randomly select categories and tags
     categories = random.sample(categories_list, random.randint(2, 3))
     tags = random.sample(tags_list, random.randint(3, 5))
-
+    #tags.append("featured")
     # Create markdown content
     content = f"""---
 layout: post
@@ -106,7 +106,7 @@ title:  "{title}"
 author: jane
 categories: [ {', '.join(categories)} ]
 tags: [ {', '.join(tags)} ]
-image: assets/images/{random.randint(1, 10)}.jpg
+image: assets/images/{random.randint(1, 17)}.jpg
 ---
 
 {introduction}
@@ -123,7 +123,7 @@ image: assets/images/{random.randint(1, 10)}.jpg
     print(f"Generated post: {file_name}")
 
 # Example usage: Generating 10 posts with unique content
-for _ in range(100):
+for _ in range(400):
     niche = random.choice(niches)
     title_structure = random.choice(base_titles)
     title = title_structure.format(niche)
