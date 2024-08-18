@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Impact of AI on Manufacturing: Singapore�s Top AI Companies"
+title:  "The Impact of AI on Manufacturing: Singapore's Top AI Companies"
 author: jane
 categories: [ AI Solutions, Automation ]
 tags: [ AI for Business, AI Growth, AI Revolution, AI Trends, Smart Cities ]

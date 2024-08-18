@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Impact of AI on Construction: Singapore�s Top AI Companies"
+title:  "The Impact of AI on Construction: Singapore's Top AI Companies"
 author: jane
 categories: [ Data Science, Singapore ]
 tags: [ AI Revolution, AI Growth, Industry Disruption ]

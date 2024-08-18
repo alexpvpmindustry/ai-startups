@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Impact of AI on Supply Chain: Singapore�s Top AI Companies"
+title:  "The Impact of AI on Supply Chain: Singapore's Top AI Companies"
 author: jane
 categories: [ Technology, Machine Learning, Innovation ]
 tags: [ Smart Cities, AI in Technology, AI Applications, Industry Disruption ]

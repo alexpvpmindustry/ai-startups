@@ -7,7 +7,7 @@ tags: [ AI Growth, Smart Cities, AI in Singapore ]
 image: assets/images/7.jpg
 ---
 
-The Defense sector in Singapore is experiencing a rapid evolution, thanks to the rise of AI companies. In this article, we explore the top AI-driven organizations making waves in the industry, pushing the boundaries of what�s possible.
+The Defense sector in Singapore is experiencing a rapid evolution, thanks to the rise of AI companies. In this article, we explore the top AI-driven organizations making waves in the industry, pushing the boundaries of what's possible.
 
 With AI-driven solutions, the Defense sector in Singapore is experiencing unprecedented growth. These companies are using machine learning, automation, and predictive analytics to solve complex challenges, making the industry more competitive and forward-looking.
 

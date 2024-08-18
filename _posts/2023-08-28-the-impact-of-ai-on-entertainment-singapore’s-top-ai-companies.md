@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Impact of AI on Entertainment: Singapore�s Top AI Companies"
+title:  "The Impact of AI on Entertainment: Singapore's Top AI Companies"
 author: jane
 categories: [ Data Science, Automation ]
 tags: [ AI Solutions for Businesses, AI for Business, AI in Technology, AI Trends, AI in Singapore ]

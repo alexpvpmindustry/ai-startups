@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Exploring AI Innovations in Singapore�s Environment Sector"
+title:  "Exploring AI Innovations in Singapore's Environment Sector"
 author: jane
 categories: [ Deep Learning, AI Solutions ]
 tags: [ AI Revolution, Smart Cities, Machine Learning Innovations, AI Solutions for Businesses ]

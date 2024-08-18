@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Impact of AI on Automotive: Singapore�s Top AI Companies"
+title:  "The Impact of AI on Automotive: Singapore's Top AI Companies"
 author: jane
 categories: [ Automation, AI ]
 tags: [ AI for Business, AI Trends, AI Transformation, AI Companies ]
