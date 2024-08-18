@@ -123,7 +123,7 @@ image: assets/images/{random.randint(1, 10)}.jpg
     print(f"Generated post: {file_name}")
 
 # Example usage: Generating 10 posts with unique content
-for _ in range(500):
+for _ in range(1500):
     niche = random.choice(niches)
     title_structure = random.choice(base_titles)
     title = title_structure.format(niche)
