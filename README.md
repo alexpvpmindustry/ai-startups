@@ -6,7 +6,7 @@
 [WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/) 
 
 ![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
-
+ 
 ### Documentation
 
 [How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
