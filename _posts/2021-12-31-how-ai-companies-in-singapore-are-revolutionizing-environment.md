@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How AI Companies in Singapore Are Revolutionizing Environment"
-author: jane
+author: alex
 categories: [ Deep Learning, Data Science, Artificial Intelligence ]
 tags: [ AI in Asia, AI Startups, AI in Technology, AI in Singapore ]
 image: assets/images/11.jpg

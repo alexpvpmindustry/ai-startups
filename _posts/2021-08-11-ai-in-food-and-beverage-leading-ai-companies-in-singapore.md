@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Food and Beverage: Leading AI Companies in Singapore"
-author: jane
+author: alex
 categories: [ Industry Trends, Innovation, AI Solutions ]
 tags: [ Future of AI, AI Applications, AI Companies, AI in Technology, Data Analytics, featured ]
 image: assets/images/9.jpg

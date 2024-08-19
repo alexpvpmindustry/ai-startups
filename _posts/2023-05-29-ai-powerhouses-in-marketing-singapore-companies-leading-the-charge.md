@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI Powerhouses in Marketing: Singapore Companies Leading the Charge"
-author: jane
+author: alex
 categories: [ Singapore, AI, Data Science ]
 tags: [ AI Transformation, Singapore AI Companies, AI Use Cases, AI Startups ]
 image: assets/images/2.jpg

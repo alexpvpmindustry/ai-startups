@@ -20,7 +20,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    alex:
       name:           Alex Tan
       site:           https://supremacy.sg
       avatar:         assets/images/avatar1.jpg

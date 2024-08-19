@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Telecommunications: Leading AI Companies in Singapore"
-author: jane
+author: alex
 categories: [ AI Solutions, Deep Learning ]
 tags: [ AI Solutions for Businesses, Data Analytics, AI Revolution, AI Transformation ]
 image: assets/images/5.jpg

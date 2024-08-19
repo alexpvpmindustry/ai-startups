@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Top AI Companies Transforming the Food and Beverage in Singapore"
-author: jane
+author: alex
 categories: [ AI Startups, AI, Automation ]
 tags: [ AI Startups, AI in Asia, AI Growth, AI Trends ]
 image: assets/images/13.jpg

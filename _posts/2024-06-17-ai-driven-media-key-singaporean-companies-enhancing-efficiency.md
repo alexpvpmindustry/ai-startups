@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI-Driven Media: Key Singaporean Companies Enhancing Efficiency"
-author: jane
+author: alex
 categories: [ Machine Learning, Innovation ]
 tags: [ Machine Learning Innovations, AI Transformation, AI in Singapore, AI for Business, Industry Disruption ]
 image: assets/images/17.jpg
